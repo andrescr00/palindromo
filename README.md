@@ -1,1 +1,3 @@
 # palindromo
+
+python palindromo.py
