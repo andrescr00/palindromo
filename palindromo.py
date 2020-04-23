@@ -23,3 +23,5 @@ if centro!=0:
     longitud = conteo * 2 + 1
     print(arg[larg:largo+1])
     print("longitud: ", longitud)
+If conteo==0:
+    print(arg[0])
