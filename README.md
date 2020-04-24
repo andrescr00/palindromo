@@ -1,3 +1,3 @@
 # palindromo
 
-python palindromo.py
+python -m unittest test_palindromo.py
